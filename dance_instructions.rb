@@ -5,7 +5,7 @@ end
 def skip_step(foot)
   puts "Lower #{foot} foot to the ground"
   puts "Bounce #{foot} foot back up slightly, kicking it a few inches back"
-  puts "#{foot}, other foot, #{foot} and #{foot} briefly"
+  puts "briefly#{foot}, other foot, #{foot} and #{foot}"
 end
 def base_footwork
   puts "Lift right foot"
