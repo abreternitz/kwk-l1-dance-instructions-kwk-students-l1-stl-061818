@@ -13,14 +13,10 @@ def base_footwork
   base_footwork
 end
 
-
-# Upper Body
-
-# ##### Bob the reins
-
-# 1. Holding your arms out in front of you, straight and at chest level
-# 2. Cross your right wrist over your left and hold them together
-# 3. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated **eight** times.
+def bob_the_reins
+  puts"Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
+  puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated **eight** times."
 
 # **Lasso**
 
