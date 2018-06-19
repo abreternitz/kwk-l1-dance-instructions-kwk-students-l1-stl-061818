@@ -10,16 +10,11 @@ end
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
-  puts base_footwork
+  base_footwork
+end
 
 
-# 1. Lower right foot to the ground
-# 2. Bounce right foot back up slightly, kicking it a few inches back
-# 3. Right, Left, Right and Right
-
-
-
-# ### Upper Body
+# Upper Body
 
 # ##### Bob the reins
 
