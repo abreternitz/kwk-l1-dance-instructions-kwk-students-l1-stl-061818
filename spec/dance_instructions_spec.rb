@@ -15,7 +15,6 @@ RSpec.describe "Gangnam Style" do
       }
       expectation.to output(/Lower/).to_stdout
       expectation.to output(/Bounce/).to_stdout
-      expectation.to output(/Briefly/).to_stdout
     end
 
     it "accepts one argument for foot position" do
